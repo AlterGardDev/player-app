@@ -5,7 +5,7 @@ import { Image } from "../ui/image";
 export const HomeButton = () => {
   return (
     <Button
-      className="w-[102px] h-[152px] m-0 p-0"
+      className="w-[102px] h-[152px] m-0 p-0 bg-trasnparent"
       variant="solid"
       action="primary"
       onPress={() => {

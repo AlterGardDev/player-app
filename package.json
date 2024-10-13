@@ -1,5 +1,5 @@
 {
-  "name": "expo-app",
+  "name": "altergard-player-app",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
@@ -83,6 +83,7 @@
     "@babel/core": "^7.24.0",
     "@types/react": "~18.2.45",
     "@types/react-native": "^0.73.0",
+    "@types/react-navigation": "^3.4.0",
     "@unitools/babel-plugin-universal-image": "^1.0.0",
     "autoprefixer": "^10.4.20",
     "babel-plugin-module-resolver": "^5.0.2",
